@@ -1,6 +1,6 @@
 # Overview
 Brute force using curl for user/passford fields
-<img src="https://github.com/Alexandersfg4/pictures/blob/master/Screenshot%202021-02-07%20at%2015.03.01.png" height="330" width="300">
+<img src="https://github.com/Alexandersfg4/pictures/blob/master/Screenshot%202021-02-07%20at%2015.03.01.png" height="600" width="600">
 ## Getting started
 1. Change url/headers/X-CSRF-Token/cookies to actual victim data
 ```
