@@ -1,7 +1,7 @@
 # Overview
 Brute force using curl for user/passford fields 
 
-<img src="https://github.com/Alexandersfg4/pictures/blob/master/Screenshot%202021-02-07%20at%2015.03.01.png" height="717" width="700">
+<img src="https://github.com/Alexandersfg4/pictures/blob/master/Screenshot%202021-02-07%20at%2015.03.01.png" height="500" width="700">
 
 
 ## Getting started
